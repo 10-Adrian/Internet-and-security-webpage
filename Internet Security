@@ -1,0 +1,31 @@
+<h3>Definition of Active Attacks</h3>
+<p><strong>Active attacks</strong> are the attacks in which the attacker tries to modify the information or creates a false message. The prevention of these attacks is quite difficult because of a broad range of potential physical, network and software vulnerabilities. Instead of prevention, it emphasizes on the detection of the attack and recovery from any disruption or delay caused by it.An active attack usually requires more effort and often more dangerous implication. When the <a href="https://geekprank.com/hacker/">hacker attempts</a> to attack, the victim gets aware of it.</p>
+<p>The active attacks are in the form of interruption, modification and fabrication.</p>
+<ul>
+<li><strong>Interruption</strong>&nbsp;is known as masquerade attack in which unauthorized attacker tries to pose as another entity.</li>
+<li><strong>Modification</strong>&nbsp;can be done using two ways replay attack and alteration. In the&nbsp;<strong>replay</strong>&nbsp;attack, a sequence of events or some data units is captured and resent by them. While&nbsp;<strong>alteration</strong>&nbsp;of the message involves some change to the original message, either one of them can cause alteration.</li>
+<li><strong>Fabrication</strong>&nbsp;causes&nbsp;<strong>Denial Of Service (DOS)</strong>&nbsp;attacks in which attacker strive to prevent licit users from accessing some services, which they are permitted to or in simple words the attacker gain access to the network and then lock the authorized user out.</li>
+</ul>
+<h3>Definition of Passive Attacks</h3>
+<p><strong>Passive attacks</strong>&nbsp;are the attacks where the attacker indulges in unauthorized eavesdropping, just monitoring the transmission or gathering information. The eavesdropper does not make any changes to the data or the system.</p>
+<p>Unlike active attack, the passive attack is hard to detect because it doesn&rsquo;t involve any alteration in the data or system resources. Thus, the attacked entity doesn&rsquo;t get any clue about the attack. Although, it can be prevented using encryption methods in which the data is firstly encoded in the unintelligible language at the sender&rsquo;s end and then at the receivers end it is again converted into human understandable language.In this way, at the time of transit, the message is in an unintelligible form which could not be understood by the hackers. That is the reason, in passive attacks, the prevention has more concern than detection. The passive attacks entangle the open ports that are not protected by firewalls. The attacker continuously searches for the vulnerabilities and once it is found the attacker gains access to network and system.</p>
+<div class="google-auto-placed ap_container">&nbsp;</div>
+<p>The passive attacks are further classified into two types, first is the release of message content and second is traffic analysis.</p>
+<ul>
+<li>The&nbsp;<strong>release of message content</strong>&nbsp;can be expressed with an example, in which the sender wants to send a confidential message or email to the receiver. The sender doesn&rsquo;t want the contents of that message to be read by some interceptor.</li>
+<li>By using encryption a message could be masked in order to prevent the extraction of the information from the message, even if the message is captured. Though still attacker can analyse the traffic and observe the pattern to retrieve the information. This type of passive attack refers to as&nbsp;<strong>traffic analysis</strong>.</li>
+</ul>
+<div id="techd">
+<h2>Key Differences&nbsp;</h2>
+<ol>
+<li>The active attack includes&nbsp;<strong>modification</strong>&nbsp;of the message. On the other hand, in passive attacks, the attacker doesn&rsquo;t commit any changes to the intercepted information.</li>
+<li>The active attack causes a huge amount of harm to the system while the passive attack doesn&rsquo;t cause any harm to the system resources.</li>
+<li>A passive attack is considered as a threat to data confidentiality. In contrast, an active attack is a threat to the integrity and availability of the data.</li>
+<li>The attacked entity is aware of the attack in case of active attack. As against, the victim is unaware of the attack in the passive attack.</li>
+<li>The active attack is accomplished by gaining the physical control over the communication link to capture and insert transmission. On the contrary, in a passive attack, the attacker just needs to observe the transmission.</li>
+</ol>
+<h3>Conclusion</h3>
+<p>The active and passive attacks can be differentiated on the basis of what are they, how they are performed and how much extent of damage they cause to the system resources. But, majorly the active attack modifies the information and causes a lot of damage to the system resources and can affect its operation. Conversely, the passive attack does not make any changes to the system resources and therefore doesn&rsquo;t causes any damage.</p>
+</div>
+<p>&nbsp;</p>
+<h3>&nbsp;</h3>
