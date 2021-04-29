@@ -187,7 +187,45 @@
 </div>
 </div>
 <p>- Software and hardware to protect networks</p>
+<p>There is a wide variety of network security hardware, software, and methods that can be combined to protect sensitive data against external attacks and insider threats.</p>
+<p>This article outlines network security core principles and the most popular technologies used by cybersecurity professionals to reduce network vulnerabilities.</p>
+<h2>What is Network Security?</h2>
+<p><a href="https://phoenixnap.com/blog/what-is-network-security" target="&rdquo;_blank&rdquo;" rel="noopener">Network security</a>&nbsp;is any practice or tool designed and implemented to secure a network and its data. It includes software, hardware, and cloud solutions. Effective network security tools stop a wide range of cyberattacks, and prevent attacks spreading throughout the network in case of a data breach.</p>
+<p>In today&rsquo;s cyber environment, every organization must implement network security processes and solutions to maintain the uptime of their online resources. All network security solutions are implemented in accordance with the core principles of network security.</p>
+<h2>Understanding the Principles of Network Security</h2>
+<h3>The CIA Triad</h3>
+<p>The CIA triad consists of three core principles that work together to ensure network security. Any network <a href="https://cubesolve.com/">security solution can</a> be categorized as supporting one of the following principles:</p>
+<ul>
+<li><strong>Confidentiality:&nbsp;Data is kept protected against threats and unauthorized access.&nbsp;</strong></li>
+<li><strong>Integrity</strong>:&nbsp;Data is kept accurate and trustworthy by preventing accidental or intentional alterations or deletion.</li>
+<li><strong>Availability</strong>:&nbsp;Data is kept accessible to those who are authorized to have access.&nbsp;</li>
+</ul>
+<h3>Network Security Components</h3>
+<p>To deter cyberattacks and <a href="https://geekprank.com/hacker/" rel="nofollow">hacking attempts</a>, a total of three types of network security components can be called upon &ndash;&nbsp;<strong>hardware</strong>,&nbsp;<strong>software</strong>, and&nbsp;<strong>cloud</strong>&nbsp;security components.</p>
+<p><strong>Hardware components</strong>&nbsp;include servers and devices that perform an array of security operations within a network. Hardware components can be set up in two ways:</p>
+<ul>
+<li><strong>Out of the path of network traffic (&ldquo;out-of-line&rdquo;):</strong>&nbsp;Operating as a separate entity from network traffic, out-of-line security appliances are tasked with monitoring traffic and raising alerts when they detect malicious data.</li>
+<li><strong>In the path of network traffic (&ldquo;in-line&rdquo;):</strong>&nbsp;A more popular option of the two, in-line hardware appliances are tasked with directly blocking data packets the moment they run into potential threats.</li>
+</ul>
+<p>Security&nbsp;<strong>software components</strong>&nbsp;are installed on devices across the network, providing added detection capabilities and threat remediation. The far most common form of software network security components are antivirus applications.</p>
+<p>Finally,&nbsp;<a href="https://phoenixnap.com/cloud-services">cloud services</a>&nbsp;entail offloading the security infrastructure onto a cloud provider. The protection strategy is similar to in-line hardware appliances as all the network traffic goes through the cloud provider. While there, the traffic gets scanned for potential threats before either being blocked or allowed into the network.</p>
+<p>Sound networks usually rely on a combination of several security components working at once. This kind of a multi-layered defense system ensures that even if a threat manages to slip through the cracks of one component, another layer of protection will keep it from gaining access to the network.</p>
+<p><img class="aligncenter wp-image-78195 size-full lazyloaded" src="https://phoenixnap.com/blog/wp-content/uploads/2020/07/data-security-cloud-layers-of-security.png" sizes="(max-width: 833px) 100vw, 833px" srcset="https://phoenixnap.com/blog/wp-content/uploads/2020/07/data-security-cloud-layers-of-security.png 833w, https://phoenixnap.com/blog/wp-content/uploads/2020/07/data-security-cloud-layers-of-security-207x300.png 207w, https://phoenixnap.com/blog/wp-content/uploads/2020/07/data-security-cloud-layers-of-security-768x1113.png 768w, https://phoenixnap.com/blog/wp-content/uploads/2020/07/data-security-cloud-layers-of-security-707x1024.png 707w" alt="Understanding Layered security and different principles of network security" width="833" height="1207" data-ll-status="loaded" /></p>
+<h3>&nbsp;</h3>
+<h2>Conclusion</h2>
+<p>To truly protect a network, multiple specialized hardware and software need to be installed and managed. By implementing a layered network security approach with tools that support the principles of the CIA triad, a network can be secured against a wide array of vulnerabilities.</p>
+
+
+
 <p>- Network protocols: SSL, HTTPS, IPv6</p>
+
+
+
+
+
+
+
+
 <p>- Digital certificates and certificate authorities</p>
 <p><strong>Cybersecurity</strong> (video)</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kx4y9c7w2JQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
