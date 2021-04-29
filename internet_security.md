@@ -266,6 +266,26 @@
 
 
 <p>- Digital certificates and certificate authorities</p>
+
+<h1 id="d46506e11" class="topictitle1 bx--type-expressive-heading-05">Digital certificates and certificate authorities</h1>
+<div class="body conbody">
+<p class="shortdesc">Digital certificates are issued by trusted parties, called certificate authorities, to verify the identity of an entity, such as a client or server.</p>
+<p>The digital certificate serves two purposes: it verifies the owner's identity and it makes the owner's public key available. It is issued with an expiration date, after which it is no longer guaranteed by the certificate authority (CA).</p>
+<p>To obtain a digital certificate, you send a request to the CA of your choice, such as Verisign, or RSA. The request includes your distinguished name, your public key, and your signature. A distinguished name (DN) is a unique identifier for each user or host for which you are applying for a certificate. The CA checks your signature using your public key and performs some level of verification of your identity (this varies with different CAs). After verification, the CA sends you a signed digital certificate that contains your distinguished name, your public key, the CA's distinguished name, and the signature of the certificate authority. You store this signed certificate in your key database.</p>
+<div class="p">When you send this certificate to a receiver, the receiver performs two steps to verify your identity:
+<ol class="bx--list--ordered--temporary">
+<li class="bx--list__item">Uses your public key that comes with the certificate to check your digital signature.</li>
+<li class="bx--list__item">Verifies that the CA that issued your certificate is legitimate and trustworthy. To do this, the receiver needs the public key of the CA. The receiver might already hold an assured copy of the public key of the CA in their key database, but if not, the receiver must acquire an additional digital certificate to obtain the public key of the CA. This certificate might in turn depend on the digital certificate of another CA; there might be a hierarchy of certificates issued by multiple CAs, each depending on the validity of the next. Eventually, however, the receiver needs the public key of the&nbsp;<dfn class="term">root CA</dfn>. The root CA is the CA at the top of the hierarchy. To trust the validity of the digital certificate of the root CA, the public-key user must receive that digital certificate in a secure manner, such as through a download from an authenticated server, or with preloaded software received from a reliable source, or on a securely delivered diskette.</li>
+</ol>
+</div>
+<p>Many applications that send a digital certificate to a receiver send not just their own certificate, but also all of the CA digital certificates necessary to verify the hierarchy of certificates up to the root CA certificate.</p>
+<p>For a digital certificate to be entirely trustworthy, the owner of the digital certificate must have carefully protected their private key, for example, by encrypting it on their computer's hard drive. If their private key has been compromised, an imposter could misuse their digital certificate.</p>
+<p>You can use self-signed digital certificates for testing purposes. A self-signed digital certificate contains your distinguished name, your public key, and your signature.</p>
+</div>
+
+
+
+
 <p><strong>Cybersecurity</strong> (video)</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kx4y9c7w2JQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
