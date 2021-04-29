@@ -1,1 +1,53 @@
-
+<header class="definition-header">
+<h1 class="definition-title">Digital signature</h1>
+</header>
+<div id="content-center" class="content-center">
+<section id="content-body" class="section definition-section" data-menu-title="Definition">
+<p>A digital signature is a mathematical technique used to validate the authenticity and integrity of a message, software or digital document. It's the digital equivalent of a handwritten signature or stamped seal, but it offers far more inherent security. A digital signature is intended to solve the problem of tampering and impersonation in digital communications.</p>
+<p>Digital signatures can provide evidence of origin, identity and status of electronic documents, transactions or digital messages. Signers can also use them to acknowledge informed consent.</p>
+<p>In many countries, including the United States, digital signatures are considered legally binding in the same way as traditional handwritten document signatures.</p>
+<section class="section main-article-chapter" data-menu-title="How do digital signatures work?">
+<h3 class="section-title">How do digital signatures work?</h3>
+<p>Digital signatures are based on&nbsp;<a href="https://searchsecurity.techtarget.com/definition/public-key">public key</a>&nbsp;cryptography, also known as&nbsp;<a href="https://searchsecurity.techtarget.com/definition/asymmetric-cryptography"><em>asymmetric cryptography</em></a>. Using a public key algorithm, such as RSA (Rivest-Shamir-Adleman), two keys are generated, creating a mathematically linked pair of keys, one private and one public.</p>
+<p>Digital signatures work through public key cryptography's two&nbsp;<a href="https://searchsecurity.techtarget.com/answer/Which-private-keys-and-public-keys-can-create-a-digital-signature">mutually authenticating cryptographic keys</a>. The individual who creates the digital signature uses a&nbsp;<a href="https://searchsecurity.techtarget.com/definition/private-key">private key</a>&nbsp;to encrypt signature-related data, while the only way to decrypt that data is with the signer's public key.</p>
+<p>If the recipient can't open the document with the signer's public key, that's a sign there's a problem with the document or the signature. This is how digital signatures are authenticated.</p>
+<p>Digital signature technology requires all parties trust that the individual creating the signature has kept the private key secret. If someone else has access to the private signing key, that party could create fraudulent digital signatures in the name of the private key holder.</p>
+</section>
+</section>
+</div>
+<section class="section main-article-chapter" data-menu-title="What are the benefits of digital signatures?">
+<h3 class="section-title">What are the benefits of digital signatures?</h3>
+<p>Security is the main benefit of digital signatures. Security capabilities embedded in digital signatures ensure a document is not altered and signatures are legitimate. Security features and methods used in digital signatures include the following:</p>
+<ul class="default-list">
+<li><strong>Personal identification numbers (PINs), passwords and codes.</strong>&nbsp;Used to authenticate and verify a signer's identity and approve their signature. Email, username and password are the most common methods used.</li>
+<li><strong>Asymmetric cryptography.</strong>&nbsp;Employs a public key&nbsp;<a href="https://whatis.techtarget.com/definition/algorithm">algorithm</a>&nbsp;that includes private and public key encryption and&nbsp;<a href="https://searchsecurity.techtarget.com/definition/authentication">authentication</a>.</li>
+<li><a href="https://searchsecurity.techtarget.com/definition/checksum"><strong>Checksum</strong></a><strong>.</strong>&nbsp;A long string of letters and numbers that represents the sum of the correct digits in a piece of digital data, against which comparisons can be made to detect errors or changes. A checksum acts as a data fingerprint.</li>
+<li><strong>Cyclic redundancy check (</strong><a href="https://searchnetworking.techtarget.com/definition/cyclic-redundancy-checking"><strong>CRC</strong></a><strong>).</strong>&nbsp;An error-detecting code and verification feature used in digital networks and storage devices to detect changes to raw data.</li>
+<li><strong>Certificate authority (</strong><a href="https://searchsecurity.techtarget.com/definition/certificate-authority"><strong>CA</strong></a><strong>) validation.</strong>&nbsp;CAs issue digital signatures and act as trusted third parties by accepting, authenticating, issuing and maintaining&nbsp;<a href="https://searchsecurity.techtarget.com/definition/digital-certificate">digital certificates</a>. The use of CAs helps avoid the creation of fake digital certificates.</li>
+<li><strong>Trust service provider (TSP) validation.</strong>&nbsp;A TSP is a person or legal entity that performs validation of a digital signature on a company's behalf and offers signature validation reports.</li>
+</ul>
+<p>Other benefits to using digital signatures include the following:</p>
+<ul class="default-list">
+<li><strong>Timestamping.</strong>&nbsp;By providing the data and time of a digital signature, timestamping is useful when timing is critical, such as for stock trades, lottery ticket issuance and legal proceedings.</li>
+<li><strong>Globally accepted and legally compliant.</strong>&nbsp;The public key infrastructure (<a href="https://searchsecurity.techtarget.com/definition/PKI">PKI</a>) standard ensures vendor-generated keys are made and stored securely. Because of the international standard, a growing number of countries are accepting digital signatures as legally binding.</li>
+<li><strong>Time savings.</strong>&nbsp;Digital signatures simplify the time-consuming processes of physical document signing, storage and exchange, enabling businesses to quickly access and sign documents.</li>
+<li><strong>Cost savings.</strong>&nbsp;Organizations can go paperless and save money previously spent on the physical resources and on the time, personnel and office space used to manage and transport them.</li>
+<li><strong>Positive environmental impact.</strong>&nbsp;<a href="https://searchcontentmanagement.techtarget.com/feature/Companies-wield-various-technologies-in-going-paperless">Reducing paper use</a>&nbsp;also cuts down on the physical waste generated by paper and the negative environmental impact of transporting paper documents.</li>
+<li><strong>Traceability.</strong>&nbsp;Digital signatures create an audit trail that makes internal record-keeping easier for business. With everything recorded and stored digitally, there are fewer opportunities for a manual signee or record-keeper to make a mistake or misplace something.</li>
+</ul>
+</section>
+<section class="section main-article-chapter" data-menu-title="How do you create a digital signature?">
+<h3 class="section-title">How do you create a digital signature?</h3>
+<p>To create a digital signature, signing software, such as an email program, is used to provide a one-way hash of the electronic data to be signed.</p>
+<p>A hash is a fixed-length string of letters and numbers generated by an algorithm. The digital signature creator's private key is then used to encrypt the hash. The encrypted hash -- along with other information, such as the&nbsp;<a href="https://searchsqlserver.techtarget.com/definition/hashing">hashing</a>&nbsp;algorithm -- is the digital signature.</p>
+<p>The reason for encrypting the hash instead of the entire message or document is a hash function can convert an arbitrary input into a fixed-length value, which is usually much shorter. This saves time as hashing is much faster than signing.</p>
+<p>The value of a hash is unique to the hashed data. Any change in the data, even a change in a single character, will result in a different value. This attribute enables others to use the signer's public key to decrypt the hash to validate the integrity of the data.</p>
+<p>If the decrypted hash matches a second computed hash of the same data, it proves that the data hasn't changed since it was signed. If the two hashes don't match, the data has either been tampered with in some way and is compromised or the signature was created with a private key that doesn't correspond to the public key presented by the signer -- an issue with authentication.</p>
+<figure class="main-article-image full-col" data-img-fullsize="https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f.png"><img class="" src="https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_mobile.png" srcset="https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_mobile.png 960w,https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_desktop.png 1280w" alt="How digital signatures work" data-src="https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_mobile.png" data-srcset="https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_mobile.png 960w,https://cdn.ttgtmedia.com/rms/onlineimages/security-digital_signature_process-f_desktop.png 1280w" />
+<figcaption>A person creates a digital signature using a private key to encrypt the signature. At the same time, hash data is created and encrypted. The recipient uses the signer's public key to decrypt the signature.</figcaption>
+<div class="main-article-image-enlarge">&nbsp;</div>
+</figure>
+<p>A digital signature can be used with any kind of message, whether it is encrypted or not, simply so the receiver can be sure of the sender's identity and the message arrived intact. Digital signatures make it difficult for the signer to deny having signed something as the digital signature is unique to both the document and the signer and it binds them together. This property is called&nbsp;<a href="https://searchsecurity.techtarget.com/definition/nonrepudiation"><em>nonrepudiation</em></a>.</p>
+<p>Digital signatures are not to be confused with digital certificates. A digital certificate is an electronic document that contains the digital signature of the issuing CA. It binds together a public key with an identity and can be used to verify that a public key belongs to a particular person or entity.</p>
+<p>Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and nonrepudiation of communications and transactions conducted over the internet.</p>
+</section>
