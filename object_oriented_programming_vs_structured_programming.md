@@ -6,3 +6,12 @@
 <p>Opting for either programming format will depend exclusively on the type of demand; the definitions choose the best way. As the possibilities in both formats are very broad, it is necessary to conduct a wide analysis, especially if the structured programming is an option. In the development market there are very few professionals who turn to structured programming. So setting up a project based on it demands not only developers to the project itself, but also for the maintenance of the system afterwards.</p>
 </div>
 <div class="author">&nbsp;</div>
+
+<p><strong>Internet security:</strong></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
+<p><strong>Digital signature:</strong></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
+<p><strong>Internet security:</strong></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
+
+<p>&nbsp;</p>
