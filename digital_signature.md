@@ -1,6 +1,5 @@
 <h1><span style="text-decoration: underline; color: #0000ff;">Digital signature</span></h1>
 <p style="text-align: justify;"><img src="https://www.smartdatacollective.com/wp-content/uploads/2019/05/digital-signature-data.jpg" alt="How Big Data Offers Better Electronic Signature Solutions" /></p>
-
 <div id="content-center" class="content-center">
 <section id="content-body" class="section definition-section" data-menu-title="Definition">
 <p style="text-align: justify;">A digital signature is a mathematical technique used to validate the authenticity and integrity of a message, software or digital document. It's the digital equivalent of a handwritten signature or stamped seal, but it offers far more inherent security. A digital signature is intended to solve the problem of tampering and impersonation in digital communications.</p>
