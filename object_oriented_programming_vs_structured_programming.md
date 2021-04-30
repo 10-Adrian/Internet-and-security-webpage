@@ -17,3 +17,5 @@
 <h3><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></h3>
 
 <p>&nbsp;</p>
+<h2><span style="text-decoration: underline; color: #99cc00;">Differences</span></h2>
+<p><img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" alt="What is the Difference Between Structured and Object Oriented Programming -  Pediaa.Com" /></p>
