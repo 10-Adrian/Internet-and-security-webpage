@@ -11,7 +11,7 @@
 <p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
 <p><strong>Digital signature:</strong></p>
 <p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
-<p><strong>Internet security:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
+<p><strong>Accesibility standards:</strong></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">accesibility_standards.html</a></p>
 
 <p>&nbsp;</p>
