@@ -293,7 +293,10 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193670.34420859508!2d-74.01120037688626!3d40.671784750601404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2ef301cf243d7%3A0x8936b43adb2aa967!2sCybersecurity%20IT%20-%20Triada%20Networks!5e0!3m2!1ses!2ses!4v1615540959173!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <p><strong>Accesibility standards:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">accesibility_standards.html</a></p>
-<p>&nbsp;</p>
+<h3><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></h3>
 <p><strong>Digital signature:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html">digital_signature</a></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html"><span style="background-color: #00ff00;">Digital_signature</span></a></h3>
+<p><strong>Object oriented programming VS Structured programming:</strong></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/object_oriented_programming_vs_structured_programming.html"><span style="background-color: #00ffff;">Object_oriented_programming_VS_Structured_programming</span></a></h3>
+
+
