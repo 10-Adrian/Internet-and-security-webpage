@@ -1,22 +1,7 @@
-<style>
-        
-        h2 {
-            color: rgb(0, 232, 15);
-        }  
-        
-        body {
-            background-color: rgb(90, 240, 213);
-        }
-            
-        </style>
-
-<h1 style="text-align: center;"><span style="color: #800000;">Internet and security webpage</span></h1>
-<p><h2><strong>INDEX:</strong></h2></p>
-<body>
-<h3><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></h3>
-<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></h3>
-<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html"><span style="background-color: #00ff00;">Digital_signature</span></a></h3>
-<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/object_oriented_programming_vs_structured_programming.html"><span style="background-color: #00ffff;">Object_oriented_programming_VS_Structured_programming.</span></a></h3>
-
-<img src="https://www.fundacionbankinter.org/documents/165827/166210/Inteligencia+Artificial+Educaci%C3%B3n/b3b1a45a-e710-4d07-b602-ae67b24b1977?t=1598973001032" alt="Security technologie" width="303">
-</body>
+<h1 style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="color: #800000; text-decoration: underline;">Internet and security webpage</span></span></strong></h1>
+<h2><img style="font-size: 14px; font-weight: 400; display: block; margin-left: auto; margin-right: auto;" src="https://www.fundacionbankinter.org/documents/165827/166210/Inteligencia+Artificial+Educaci%C3%B3n/b3b1a45a-e710-4d07-b602-ae67b24b1977?t=1598973001032" alt="Security technologie" width="243" height="149" /><strong>INDEX:</strong></h2>
+<p><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html"><span style="background-color: #00ff00;">Digital_signature</span></a></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/object_oriented_programming_vs_structured_programming.html"><span style="background-color: #00ffff;">Object_oriented_programming_VS_Structured_programming</span></a></p>
+<p>&nbsp; &nbsp; &nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="https://elceo.com/wp-content/uploads/2019/12/internet_freepik.jpg" alt="Viasat quiere dar internet a clientes de alto valor sin acceso o con mal  servicio" width="373" height="223" /></p>
