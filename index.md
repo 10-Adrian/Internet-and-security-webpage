@@ -17,8 +17,8 @@
 <p>&nbsp;</p>
 <p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
 <p>&nbsp;</p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">digital_signature</a></p>
-<p>- <em>Object oriented programming vs structured programming</em></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html">digital_signature</a></p>
+<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/object_oriented_programming_vs_structured_programming.html">object_oriented_programming_vs_structured_programming.html</a></p>
 
 <img src="https://www.fundacionbankinter.org/documents/165827/166210/Inteligencia+Artificial+Educaci%C3%B3n/b3b1a45a-e710-4d07-b602-ae67b24b1977?t=1598973001032" alt="Security technologie" width="303">
 </body>
