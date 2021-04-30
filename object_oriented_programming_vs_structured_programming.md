@@ -13,6 +13,11 @@
 <h2><span style="text-decoration: underline; color: #99cc00;">Differences</span></h2>
 <p><img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" alt="What is the Difference Between Structured and Object Oriented Programming -  Pediaa.Com" /></p>
 
+<h2><span style="text-decoration: underline;"><span style="color: #008080; text-decoration: underline;">A coding revolution?</span></span></h2>
+<h4>(<span class="Y2IQFc" lang="en">Explanatory video)</span></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FL20P_8n3NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <p><strong>Internet security:</strong></p>
 <h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></h3>
