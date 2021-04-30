@@ -8,10 +8,10 @@
 <div class="author">&nbsp;</div>
 
 <p><strong>Internet security:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html">internet_security.html</a></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></h3>
 <p><strong>Digital signature:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html">digital_signature</a></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html"><span style="background-color: #00ff00;">Digital_signature</span></a></h3>
 <p><strong>Accesibility standards:</strong></p>
-<p><a href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">accesibility_standards.html</a></p>
+<h3><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></h3>
 
 <p>&nbsp;</p>
