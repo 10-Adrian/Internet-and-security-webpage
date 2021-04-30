@@ -9,6 +9,11 @@
 </div>
 <div class="author">&nbsp;</div>
 
+<p>&nbsp;</p>
+<h2><span style="text-decoration: underline; color: #99cc00;">Differences</span></h2>
+<p><img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" alt="What is the Difference Between Structured and Object Oriented Programming -  Pediaa.Com" /></p>
+
+
 <p><strong>Internet security:</strong></p>
 <h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></h3>
 <p><strong>Digital signature:</strong></p>
@@ -16,6 +21,3 @@
 <p><strong>Accesibility standards:</strong></p>
 <h3><span style="background-color: #ff9900;"><a style="background-color: #ff9900;" href="https://10-adrian.github.io/Internet-and-security-webpage/accesibility_standards.html">Accesibility_standards</a></span></h3>
 
-<p>&nbsp;</p>
-<h2><span style="text-decoration: underline; color: #99cc00;">Differences</span></h2>
-<p><img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" alt="What is the Difference Between Structured and Object Oriented Programming -  Pediaa.Com" /></p>
