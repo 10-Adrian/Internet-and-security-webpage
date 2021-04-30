@@ -51,3 +51,16 @@
 <p>Digital signatures are not to be confused with digital certificates. A digital certificate is an electronic document that contains the digital signature of the issuing CA. It binds together a public key with an identity and can be used to verify that a public key belongs to a particular person or entity.</p>
 <p>Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and nonrepudiation of communications and transactions conducted over the internet.</p>
 </section>
+
+<p><strong>Internet security:</strong></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/internet_security.html"><span style="background-color: #ffff00;">Internet_security</span></a></h3>
+<p><strong>Accesibility standards:</strong></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/digital_signature.html"><span style="background-color: #00ff00;">Digital_signature</span></a></h3>
+<p><strong>Object oriented programming VS Structured programming:</strong></p>
+<h3><a href="https://10-adrian.github.io/Internet-and-security-webpage/object_oriented_programming_vs_structured_programming.html"><span style="background-color: #00ffff;">Object_oriented_programming_VS_Structured_programming</span></a></h3>
+
+
+
+
+
+
